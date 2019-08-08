@@ -1,0 +1,59 @@
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.dll
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.pdb
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.dll
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.pdb
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.dll
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.pdb
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.dll
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.pdb
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.dll
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.pdb
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.dll
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.pdb
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.dll
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.pdb
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.dll
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.pdb
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.dll
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.pdb
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.dll
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.pdb
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\Newtonsoft.Json.dll
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\Newtonsoft.Json.xml
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.dll
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.AccesoDatos.pdb
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\Newtonsoft.Json.dll
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Release\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.dll
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Release\MVC.Librerias.AccesoDatos.pdb

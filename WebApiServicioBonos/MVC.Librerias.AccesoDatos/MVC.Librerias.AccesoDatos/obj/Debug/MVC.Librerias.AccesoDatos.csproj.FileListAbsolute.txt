@@ -1,0 +1,68 @@
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csproj.CopyComplete
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csproj.CopyComplete
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\System.Web.Http.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\System.Web.Mvc.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.csproj.CopyComplete
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\obj\Debug\MVC.Librerias.AccesoDatos.pdb

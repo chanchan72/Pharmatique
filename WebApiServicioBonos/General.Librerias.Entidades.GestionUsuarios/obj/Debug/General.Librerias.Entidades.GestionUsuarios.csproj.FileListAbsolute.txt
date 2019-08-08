@@ -1,0 +1,12 @@
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.Entidades.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.Entidades.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.Entidades.GestionUsuarios\obj\Debug\General.Librerias.Entidades.GestionUsuarios.csprojAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.Entidades.GestionUsuarios\obj\Debug\General.Librerias.Entidades.GestionUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.Entidades.GestionUsuarios\obj\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.Entidades.GestionUsuarios\obj\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.Entidades.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.Entidades.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.Entidades.GestionUsuarios\obj\Debug\General.Librerias.Entidades.GestionUsuarios.csprojAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.Entidades.GestionUsuarios\obj\Debug\General.Librerias.Entidades.GestionUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.Entidades.GestionUsuarios\obj\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.Entidades.GestionUsuarios\obj\Debug\General.Librerias.Entidades.GestionUsuarios.pdb

@@ -1,0 +1,41 @@
+J:\SISTEMAS DE INFORMACION .NET\MVC_ANT_V2.0\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\MVC_ANT_V2.0\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\MVC_ANT_V2.0\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\MVC_ANT_V2.0\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.pdb
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.dll
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.pdb
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.csprojResolveAssemblyReference.cache
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.dll
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.pdb
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.dll
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.pdb
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.dll
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.csprojResolveAssemblyReference.cache
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.csprojResolveAssemblyReference.cache
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.pdb
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.dll
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.pdb
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.csprojResolveAssemblyReference.cache
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.dll
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Release\General.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.csprojResolveAssemblyReference.cache
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Release\General.Librerias.EntidadesNegocio.pdb

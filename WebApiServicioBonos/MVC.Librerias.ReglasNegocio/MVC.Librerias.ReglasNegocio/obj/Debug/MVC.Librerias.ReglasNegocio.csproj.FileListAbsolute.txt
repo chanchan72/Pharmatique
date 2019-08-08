@@ -1,0 +1,130 @@
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csprojResolveAssemblyReference.cache
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csprojResolveAssemblyReference.cache
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MUDE.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csprojResolveAssemblyReference.cache
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MUDE.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csprojResolveAssemblyReference.cache
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csprojAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MUDE.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csproj.CopyComplete
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MUDE.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csprojAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csproj.CopyComplete
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.ReglasNegocio.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MUDE.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\Genaral.Librerias.CodigoUsuario.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\General.Librerias.EntidadesNegocio.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.AccesoDatos.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csprojAssemblyReference.cache
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.csproj.CopyComplete
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.ReglasNegocio\MVC.Librerias.ReglasNegocio\obj\Debug\MVC.Librerias.ReglasNegocio.pdb

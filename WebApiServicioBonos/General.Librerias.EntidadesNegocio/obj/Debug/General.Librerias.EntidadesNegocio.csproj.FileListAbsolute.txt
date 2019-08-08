@@ -1,0 +1,12 @@
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Debug\General.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Debug\General.Librerias.EntidadesNegocio.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Debug\General.Librerias.EntidadesNegocio.csprojAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Debug\General.Librerias.EntidadesNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Debug\General.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Debug\General.Librerias.EntidadesNegocio.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Debug\General.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.EntidadesNegocio\bin\Debug\General.Librerias.EntidadesNegocio.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Debug\General.Librerias.EntidadesNegocio.csprojAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Debug\General.Librerias.EntidadesNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Debug\General.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.EntidadesNegocio\obj\Debug\General.Librerias.EntidadesNegocio.pdb

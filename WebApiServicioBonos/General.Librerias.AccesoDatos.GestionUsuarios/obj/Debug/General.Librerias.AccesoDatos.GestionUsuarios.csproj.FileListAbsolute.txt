@@ -1,0 +1,55 @@
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csprojResolveAssemblyReference.cache
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csprojResolveAssemblyReference.cache
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csprojResolveAssemblyReference.cache
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csprojResolveAssemblyReference.cache
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csprojAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csproj.CopyComplete
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csprojAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csproj.CopyComplete
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\General.Librerias.AccesoDatos.GestionUsuarios\bin\Debug\General.Librerias.Entidades.GestionUsuarios.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csprojAssemblyReference.cache
+C:\Users\smate\source\repos\WebApiServicioBonos\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\smate\source\repos\WebApiServicioBonos\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.csproj.CopyComplete
+C:\Users\smate\source\repos\WebApiServicioBonos\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\General.Librerias.AccesoDatos.GestionUsuarios\obj\Debug\General.Librerias.AccesoDatos.GestionUsuarios.pdb

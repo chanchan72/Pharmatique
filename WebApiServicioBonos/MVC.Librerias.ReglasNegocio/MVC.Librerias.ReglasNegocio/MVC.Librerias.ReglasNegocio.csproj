@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A16DB9E7-FA8A-4B12-B0C7-EF92C29663C4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MVC.Librerias.ReglasNegocio</RootNamespace>
+    <AssemblyName>MVC.Librerias.ReglasNegocio</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="iAnywhere.Data.SQLAnywhere.v4.5, Version=16.0.0.20524, Culture=neutral, PublicKeyToken=f222fc4333e0d400, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\Users\smateus\Documents\V4.5\iAnywhere.Data.SQLAnywhere.v4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="brATCNivel1.cs" />
+    <Compile Include="brATCNivel5.cs" />
+    <Compile Include="brCanal.cs" />
+    <Compile Include="brCargo.cs" />
+    <Compile Include="brCiudad.cs" />
+    <Compile Include="brClasificacion.cs" />
+    <Compile Include="brDepartamento.cs" />
+    <Compile Include="brDistrito.cs" />
+    <Compile Include="brEntidad.cs" />
+    <Compile Include="brEstrategia.cs" />
+    <Compile Include="brGeneral.cs" />
+    <Compile Include="brCambioClave.cs" />
+    <Compile Include="brGerente.cs" />
+    <Compile Include="brInicio.cs" />
+    <Compile Include="brLinea.cs" />
+    <Compile Include="brLineaTerapeutica.cs" />
+    <Compile Include="brMarca.cs" />
+    <Compile Include="brMolecula.cs" />
+    <Compile Include="brPais.cs" />
+    <Compile Include="brPortafolio.cs" />
+    <Compile Include="brPresentacion.cs" />
+    <Compile Include="brRegionales.cs" />
+    <Compile Include="brRestablecer.cs" />
+    <Compile Include="brSubLinea.cs" />
+    <Compile Include="brTipoClasificacion.cs" />
+    <Compile Include="brTipoVenta.cs" />
+    <Compile Include="brUnidadNegocio.cs" />
+    <Compile Include="brUsuarios.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Genaral.Librerias.CodigoUsuario\Genaral.Librerias.CodigoUsuario.csproj">
+      <Project>{3616f445-b1d2-4abc-a634-1771d31c625d}</Project>
+      <Name>Genaral.Librerias.CodigoUsuario</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\General.Librerias.AccesoDatos.GestionUsuarios\General.Librerias.AccesoDatos.GestionUsuarios.csproj">
+      <Project>{a85446db-a821-4f35-acf0-0841f48d1f4b}</Project>
+      <Name>General.Librerias.AccesoDatos.GestionUsuarios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\General.Librerias.Entidades.GestionUsuarios\General.Librerias.Entidades.GestionUsuarios.csproj">
+      <Project>{aba0bb25-2da8-4df0-af39-ee500e828f50}</Project>
+      <Name>General.Librerias.Entidades.GestionUsuarios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\General.Librerias.EntidadesNegocio\General.Librerias.EntidadesNegocio.csproj">
+      <Project>{aae06bb6-c695-4d58-bebe-af72a1149aad}</Project>
+      <Name>General.Librerias.EntidadesNegocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos\MVC.Librerias.AccesoDatos.csproj">
+      <Project>{3e16b93a-f707-45d2-8336-197cb25529fc}</Project>
+      <Name>MVC.Librerias.AccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio.csproj">
+      <Project>{76fe020a-f153-47e9-baf2-7f8dc62e874d}</Project>
+      <Name>MVC.Librerias.EntidadesNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

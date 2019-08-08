@@ -1,0 +1,35 @@
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Documents\Aplicacion de la Tuna MVC\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.csprojAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\APLICACION TUNA MVC\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.csprojAssemblyReference.cache
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\Sebastian PC\Desktop\Bonos\Principal\Fuentes\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.csprojAssemblyReference.cache
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.csproj.CoreCompileInputs.cache
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\obj\Debug\MVC.Librerias.EntidadesNegocio.pdb
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.dll
+C:\Users\smate\source\repos\WebApiServicioBonos\MVC.Librerias.EntidadesNegocio\MVC.Librerias.EntidadesNegocio\bin\Debug\MVC.Librerias.EntidadesNegocio.pdb

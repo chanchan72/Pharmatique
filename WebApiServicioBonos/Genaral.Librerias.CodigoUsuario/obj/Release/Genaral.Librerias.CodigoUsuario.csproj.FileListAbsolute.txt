@@ -1,0 +1,77 @@
+J:\SISTEMAS DE INFORMACION .NET\MVC_ANT_V2.0\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.dll
+J:\SISTEMAS DE INFORMACION .NET\MVC_ANT_V2.0\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.pdb
+J:\SISTEMAS DE INFORMACION .NET\MVC_ANT_V2.0\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\MVC_ANT_V2.0\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\MVC_ANT_V2.0\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.csprojResolveAssemblyReference.cache
+J:\SISTEMAS DE INFORMACION .NET\MVC_ANT_V2.0\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.dll
+J:\SISTEMAS DE INFORMACION .NET\MVC_ANT_V2.0\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.dll
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.dll
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\MUDE.dll
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Microsoft.ApplicationBlocks.ConfigurationManagement.dll
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Microsoft.ApplicationBlocks.ConfigurationManagement.Interfaces.dll
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.pdb
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.csprojResolveAssemblyReference.cache
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.dll
+C:\Users\yramirezo\Desktop\Centros de Formacion\Centros_De_Formacion\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.pdb
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.dll
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.pdb
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.dll
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.pdb
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.csprojResolveAssemblyReference.cache
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.dll
+D:\APLICACIONES DIMAR\APLICACIONES WEB\CENTROS DE FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.csprojResolveAssemblyReference.cache
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Microsoft.ApplicationBlocks.ConfigurationManagement.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Microsoft.ApplicationBlocks.ConfigurationManagement.Interfaces.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.csprojResolveAssemblyReference.cache
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.pdb
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.csprojResolveAssemblyReference.cache
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.dll
+J:\SISTEMAS DE INFORMACION .NET\CENTROS_FORMACION\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.pdb
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.csprojResolveAssemblyReference.cache
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.dll
+C:\APLICATIVOS DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.dll
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.dll
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.pdb
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.csprojResolveAssemblyReference.cache
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.dll
+C:\APLICACIONES DIMAR\WEB\Aplicativo Centros de Formación\Versiones\Ver #1\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.dll
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.csprojResolveAssemblyReference.cache
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.dll
+C:\Users\smateus\Videos\Aplicativo Centros de Formación\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.dll
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\Genaral.Librerias.CodigoUsuario.pdb
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.dll
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\bin\Release\General.Librerias.EntidadesNegocio.pdb
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.csprojResolveAssemblyReference.cache
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.dll
+C:\Users\smateus\Videos\Aplicativo SALIDAS\Principal\Fuentes\Genaral.Librerias.CodigoUsuario\obj\Release\Genaral.Librerias.CodigoUsuario.pdb
