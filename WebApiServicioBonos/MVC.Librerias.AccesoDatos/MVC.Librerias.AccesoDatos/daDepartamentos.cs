@@ -8,25 +8,9 @@ using System.Data.SqlClient;
 using System.Data;
 
 namespace MVC.Libreria.AccesoDatos
-{
-    /// <summary>
-    /// Autor: Sebastian Mateus Villegas
-    /// Nombre de la clase: daDepartamento
-    /// Función: Capa de enlace con la base de datos y que realiza las diferentes operaciones de CRUD
-    ///          para la gestion de la información de los departamentos
-    /// Fecha Documentación: 8 de abril de 2019
-    /// </summary>
+{   
     public class daDepartamentos
-    {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarDepartamento
-        /// Función: Enlace con la base de datos y realiza un select a la tabla "PS_DEPARTAMENTO" para 
-        ///          consultar los Departamentos existentes y traer los paises existentes para llenar el control 
-        ///          que maneja el listado de los paises 
-        /// Retorno: Variable "obeDatosGeograficos" de tipo "beDatosGeograficos"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+    {       
 
         public beDatosGeograficos ListaDepartamento(SqlConnection con)
         {
@@ -77,14 +61,7 @@ namespace MVC.Libreria.AccesoDatos
         }
         
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarDepartamento
-        /// Función: Enlace con la base de datos y realiza un insert a la tabla "PS_DEPARTAMENTO" para 
-        ///          ingresar un departamento nuevo
-        /// Retorno: Variable "idElemento" de tipo "int"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+        
         public int AdicionarDepartamento(SqlConnection con, string usuario)
         {
             int idElemento = -1;
@@ -101,14 +78,7 @@ namespace MVC.Libreria.AccesoDatos
             return idElemento;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarPais
-        /// Función: Enlace con la base de datos y realiza un update a la tabla "PS_DEPARTAMENTO" para 
-        ///          actualizar un DEPARTAMENTO que este en la tabla
-        /// Retorno: Variable "exito" de tipo "bool"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+        
         public bool ActualizarDepartamento(SqlConnection con, string usuario)
         {
             bool exito = false;

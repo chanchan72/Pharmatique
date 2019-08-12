@@ -9,23 +9,10 @@ using System.Data;
 
 namespace MVC.Libreria.AccesoDatos
 {
-    /// <summary>
-    /// Autor: Sebastian Mateus Villegas
-    /// Nombre de la clase: daPais
-    /// Función: Capa de enlace con la base de datos y que realiza las diferentes operaciones de CRUD
-    ///          para la gestion de la información de los paises 
-    /// Fecha Documentación: 5 de abril de 2019
-    /// </summary>
+    
     public class daPais
     {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarPais
-        /// Función: Enlace con la base de datos y realiza un select a la tabla "PS_PAISES" para 
-        ///          consultar los paises existentes
-        /// Retorno: Variable "lstObePais" de tipo "List<bePais>"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public List<bePais> ListarPais(SqlConnection con)
         {
             List<bePais> lstObePais = new List<bePais>();
@@ -51,14 +38,7 @@ namespace MVC.Libreria.AccesoDatos
             return lstObePais;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarPais
-        /// Función: Enlace con la base de datos y realiza un insert a la tabla "PS_PAISES" para 
-        ///          ingresar un pais nuevo
-        /// Retorno: Variable "idElemento" de tipo "int"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+       
         public int AdicionarPais(SqlConnection con, bePais obePais, string usuario)
         {
             int idElemento = -1;
@@ -74,14 +54,7 @@ namespace MVC.Libreria.AccesoDatos
             return idElemento;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarPais
-        /// Función: Enlace con la base de datos y realiza un update a la tabla "PS_PAISES" para 
-        ///          actualizar un pais que este en la tabla
-        /// Retorno: Variable "exito" de tipo "bool"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public bool ActualizarPais(SqlConnection con, bePais obePais, string usuario)
         {
             bool exito = false;

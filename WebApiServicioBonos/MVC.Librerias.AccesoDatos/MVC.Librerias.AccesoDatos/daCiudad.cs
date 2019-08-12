@@ -9,24 +9,10 @@ using System.Data;
 
 namespace MVC.Libreria.AccesoDatos
 {
-    /// <summary>
-    /// Autor: Sebastian Mateus Villegas
-    /// Nombre de la clase: daCiudad
-    /// Función: Capa de enlace con la base de datos y que realiza las diferentes operaciones de CRUD
-    ///          para la gestion de la información de las ciudades
-    /// Fecha Documentación: 8 de abril de 2019
-    /// </summary>
+    
     public class daCiudad
     {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarCiudad
-        /// Función: Enlace con la base de datos y realiza un select a la tabla "PS_CIUDAD" para 
-        ///          consultar las ciudades existentes y traer los paises y departamentos existentes para llenar el control 
-        ///          que maneja el listado de los paises y departamentos
-        /// Retorno: Variable "obeDatosGeograficos" de tipo "beDatosGeograficos"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+        
 
         public beDatosGeograficos ListaCiudad(SqlConnection con)
         {
@@ -100,15 +86,6 @@ namespace MVC.Libreria.AccesoDatos
             return obeDatosDepartamento;
         }
 
-
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarCiudad
-        /// Función: Enlace con la base de datos y realiza un insert a la tabla "PS_CIUDAD" para 
-        ///          ingresar una ciudad nueva
-        /// Retorno: Variable "idElemento" de tipo "int"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
         public int AdicionarCiudad(SqlConnection con, beCiudad obeCiudad, string usuario)
         {
             int idElemento = -1;
@@ -126,14 +103,7 @@ namespace MVC.Libreria.AccesoDatos
             return idElemento;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarPais
-        /// Función: Enlace con la base de datos y realiza un update a la tabla "PS_CIUDAD" para 
-        ///          actualizar una ciudad que este en la tabla
-        /// Retorno: Variable "exito" de tipo "bool"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+        
         public bool ActualizarCiudad(SqlConnection con, beCiudad obeCiudad, string usuario)
         {
             bool exito = false;

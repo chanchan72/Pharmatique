@@ -11,14 +11,7 @@ namespace MVC.Libreria.AccesoDatos
 {
     public class daCargo
     {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarPais
-        /// Función: Enlace con la base de datos y realiza un select a la tabla "PS_PAISES" para 
-        ///          consultar los paises existentes
-        /// Retorno: Variable "lstObePais" de tipo "List<bePais>"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public List<beCargo> ListarCargo(SqlConnection con)
         {
             List<beCargo> lstObeCargo = new List<beCargo>();
@@ -44,14 +37,7 @@ namespace MVC.Libreria.AccesoDatos
             return lstObeCargo;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarPais
-        /// Función: Enlace con la base de datos y realiza un insert a la tabla "PS_PAISES" para 
-        ///          ingresar un pais nuevo
-        /// Retorno: Variable "idElemento" de tipo "int"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public int AdicionarCargo(SqlConnection con, beCargo obeCargo, string usuario)
         {
             int idElemento = -1;

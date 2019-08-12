@@ -43,7 +43,7 @@ namespace WebApiServicioBonos.Controllers
                 if (ModelState.IsValid)
                 {
                     beDatosUsuario obeDatosUsuario = new beDatosUsuario();
-                    obeDatosUsuario = loginsContr.ValidarExistenciaUsuarioAplicacion(obeLogin);
+                    obeDatosUsuario = loginsContr.ValidarExistenciaUsuarioAplicacion(obeLogin.UserName, obeLogin.Password, obeLogin.Aplicacion);
                     if (obeDatosUsuario.Usuario.LOGIN_NAME != null)
                     {
                         string centroUnidad = string.Empty;

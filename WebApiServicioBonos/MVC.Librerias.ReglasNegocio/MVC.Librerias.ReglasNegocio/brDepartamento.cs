@@ -13,22 +13,10 @@ using MVC.Librerias.ReglasNegocio;
 
 namespace MVC.Libreria.ReglasNegocio
 {
-    /// <summary>
-    /// Autor: Sebastian Mateus Villegas
-    /// Nombre de la clase: brDepartamento
-    /// Función: Capa intermedia que hace el enlace entre el controlador de Departamentos y el acceso a datos de departamentos
-    ///          con el fin de poner validaciones especificas del negocio.
-    /// Fecha Documentación: 8 de abril de 2019
-    /// </summary>
+    
     public class brDepartamento : brGeneral
     {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarDepartamento
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "lstObeDepartamento" de tipo "List<beDepartamento>"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+       
         public beDatosGeograficos ListarDepartamento()
         {
             beDatosGeograficos lstObeDepartamento = new beDatosGeograficos();
@@ -48,13 +36,7 @@ namespace MVC.Libreria.ReglasNegocio
             return lstObeDepartamento;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarDepartamento
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "idDepartamento" de tipo "int"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public int AdicionarDepartamento( string usuario)
         {
             int idDepartamento = -1;
@@ -74,13 +56,7 @@ namespace MVC.Libreria.ReglasNegocio
             return idDepartamento;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ActualizarDepartamento
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "exito" de tipo "bool"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public bool ActualizarDepartamento( string usuario)
         {
             bool exito = false;

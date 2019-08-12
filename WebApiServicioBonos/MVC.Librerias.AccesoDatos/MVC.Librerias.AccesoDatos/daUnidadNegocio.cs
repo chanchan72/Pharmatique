@@ -11,14 +11,6 @@ namespace MVC.Libreria.AccesoDatos
 {
     public class daUnidadNegocio
     {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarPais
-        /// Función: Enlace con la base de datos y realiza un select a la tabla "PS_PAISES" para 
-        ///          consultar los paises existentes
-        /// Retorno: Variable "lstObePais" de tipo "List<bePais>"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
         public List<beUnidadNegocio> ListarUnidadNegocio(SqlConnection con)
         {
             List<beUnidadNegocio> lstObeUnidadNegocio = new List<beUnidadNegocio>();
@@ -44,14 +36,6 @@ namespace MVC.Libreria.AccesoDatos
             return lstObeUnidadNegocio;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarPais
-        /// Función: Enlace con la base de datos y realiza un insert a la tabla "PS_PAISES" para 
-        ///          ingresar un pais nuevo
-        /// Retorno: Variable "idElemento" de tipo "int"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
         public int AdicionarUnidadNegocio(SqlConnection con, beUnidadNegocio obeUnidadNegocio, string usuario)
         {
             int idElemento = -1;
@@ -67,14 +51,6 @@ namespace MVC.Libreria.AccesoDatos
             return idElemento;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarPais
-        /// Función: Enlace con la base de datos y realiza un update a la tabla "PS_PAISES" para 
-        ///          actualizar un pais que este en la tabla
-        /// Retorno: Variable "exito" de tipo "bool"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
         public bool ActualizarUnidadNegocio(SqlConnection con, beUnidadNegocio obeUnidadNegocio, string usuario)
         {
             bool exito = false;

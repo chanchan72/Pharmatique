@@ -15,13 +15,7 @@ namespace MVC.Libreria.ReglasNegocio
 {
     public class brCargo : brGeneral
     {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarPais
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "lstObePais" de tipo "List<bePais>"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public List<beCargo> ListarCargo()
         {
             List<beCargo> lstObeCargo = new List<beCargo>();
@@ -41,13 +35,7 @@ namespace MVC.Libreria.ReglasNegocio
             return lstObeCargo;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarPais
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "idPais" de tipo "int"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public int AdicionarCargo(beCargo obeCargo, string usuario)
         {
             int idCargo = -1;
@@ -67,13 +55,7 @@ namespace MVC.Libreria.ReglasNegocio
             return idCargo;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ActualizarPais
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "exito" de tipo "bool"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public bool ActualizarCargo(beCargo obeCargo, string usuario)
         {
             bool exito = false;

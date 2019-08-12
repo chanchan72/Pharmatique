@@ -12,14 +12,7 @@ namespace MVC.Libreria.AccesoDatos
 {
     public class daEstrategia
     {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarPais
-        /// Función: Enlace con la base de datos y realiza un select a la tabla "PS_PAISES" para 
-        ///          consultar los paises existentes
-        /// Retorno: Variable "lstObePais" de tipo "List<bePais>"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public List<beEstrategia> ListarEstrategia(SqlConnection con)
         {
             List<beEstrategia> lstObeEstrategia = new List<beEstrategia>();
@@ -45,14 +38,7 @@ namespace MVC.Libreria.AccesoDatos
             return lstObeEstrategia;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarPais
-        /// Función: Enlace con la base de datos y realiza un insert a la tabla "PS_PAISES" para 
-        ///          ingresar un pais nuevo
-        /// Retorno: Variable "idElemento" de tipo "int"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public int AdicionarEstrategia(SqlConnection con, beEstrategia obeEstrategia, string usuario)
         {
             int idElemento = -1;
@@ -68,14 +54,7 @@ namespace MVC.Libreria.AccesoDatos
             return idElemento;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarPais
-        /// Función: Enlace con la base de datos y realiza un update a la tabla "PS_PAISES" para 
-        ///          actualizar un pais que este en la tabla
-        /// Retorno: Variable "exito" de tipo "bool"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public bool ActualizarEstrategia(SqlConnection con, beEstrategia obeEstrategia, string usuario)
         {
             bool exito = false;

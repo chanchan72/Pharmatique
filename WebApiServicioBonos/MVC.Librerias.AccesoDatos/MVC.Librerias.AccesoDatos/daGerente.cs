@@ -11,16 +11,7 @@ namespace MVC.Libreria.AccesoDatos
 {
     public class daGerente
     {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarCiudad
-        /// Función: Enlace con la base de datos y realiza un select a la tabla "PS_CIUDAD" para 
-        ///          consultar las ciudades existentes y traer los paises y departamentos existentes para llenar el control 
-        ///          que maneja el listado de los paises y departamentos
-        /// Retorno: Variable "obeDatosGeograficos" de tipo "beDatosGeograficos"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
-
+        
         public beDatosGerente ListaGerente(SqlConnection con)
         {
             beDatosGerente obeDatosGerente = new beDatosGerente();
@@ -146,14 +137,7 @@ namespace MVC.Libreria.AccesoDatos
             return obeDatosGerente;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarCiudad
-        /// Función: Enlace con la base de datos y realiza un insert a la tabla "PS_CIUDAD" para 
-        ///          ingresar una ciudad nueva
-        /// Retorno: Variable "idElemento" de tipo "int"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+        
         public int AdicionarGerente(SqlConnection con, beGerente obeGerente)
         {
             int idElemento = -1;
@@ -178,14 +162,7 @@ namespace MVC.Libreria.AccesoDatos
             return idElemento;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarPais
-        /// Función: Enlace con la base de datos y realiza un update a la tabla "PS_CIUDAD" para 
-        ///          actualizar una ciudad que este en la tabla
-        /// Retorno: Variable "exito" de tipo "bool"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+        
         public bool ActualizarGerente(SqlConnection con, beGerente obeGerente)
         {
             bool exito = false;

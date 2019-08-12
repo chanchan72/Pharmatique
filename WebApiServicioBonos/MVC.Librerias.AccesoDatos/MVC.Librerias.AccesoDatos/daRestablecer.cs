@@ -10,10 +10,10 @@ namespace MVC.Librerias.AccesoDatos
 {
     public class daRestablecer
     {
-        public bool RestablecerContrasenia()//SAConnection con, beRestablecer obeRestablecer)
+        public bool RestablecerContrasenia()//SqlConnection con, beRestablecer obeRestablecer)
         {
             bool exito = false;
-            //SACommand cmd = new SACommand("DBA.APLICACIONES_SP_RESTABLECER_CONTRASENIA", con);
+            //SqlCommand cmd = new SqlCommand("DBA.APLICACIONES_SP_RESTABLECER_CONTRASENIA", con);
             //cmd.CommandType = CommandType.StoredProcedure;
             //cmd.Parameters.AddWithValue("@CORREO", obeRestablecer.correo);
             //cmd.Parameters.AddWithValue("@CONTRASENIA", obeRestablecer.contrasenia);

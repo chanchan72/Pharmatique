@@ -13,22 +13,10 @@ using MVC.Librerias.ReglasNegocio;
 
 namespace MVC.Libreria.ReglasNegocio
 {
-    /// <summary>
-    /// Autor: Sebastian Mateus Villegas
-    /// Nombre de la clase: brCiudad
-    /// Función: Capa intermedia que hace el enlace entre el controlador de Ciudad y el acceso a datos de departamentos
-    ///          con el fin de poner validaciones especificas del negocio.
-    /// Fecha Documentación: 8 de abril de 2019
-    /// </summary>
+    
     public class brCiudad : brGeneral
     {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarCiudad
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "lstObeCiudad" de tipo "beDatosGraficos"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+        
         public beDatosGeograficos ListarCiudad()
         {
             beDatosGeograficos lstObeCiudad = new beDatosGeograficos();
@@ -48,13 +36,7 @@ namespace MVC.Libreria.ReglasNegocio
             return lstObeCiudad;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarCiudad
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "idCiudad" de tipo "int"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+       
         public int AdicionarCiudad(beCiudad obeCiudad, string usuario)
         {
             int idCiudad = -1;
@@ -74,13 +56,7 @@ namespace MVC.Libreria.ReglasNegocio
             return idCiudad;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ActualizarCiudad
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "exito" de tipo "bool"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+       
         public bool ActualizarCiudad(beCiudad obeCiudad, string usuario)
         {
             bool exito = false;

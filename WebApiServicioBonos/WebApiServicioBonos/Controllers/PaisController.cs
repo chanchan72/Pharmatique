@@ -12,12 +12,7 @@ using System.Web.Http;
 
 namespace Desarrollo_GDG_Migracion.Controllers
 {
-    /// <summary>
-    /// Autor: Sebastian Mateus Villegas
-    /// Nombre de la clase: PaisController 
-    /// Función: Establece comunicacion con el javascript "jsPais.js" para el paso de datos a la vista 
-    /// Fecha Documentación: 5 de abril de 2019
-    /// </summary>
+    
     public class PaisController : ApiController
     {
         /// <summary>
@@ -46,14 +41,7 @@ namespace Desarrollo_GDG_Migracion.Controllers
             return sb;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: GuardarPais
-        /// Función: Recibe los datos de la vista, los guarda en un objeto de tipo "bePais" y si el id del pais viene 
-        ///          vacio envia a insertar el dato, sino lo envia a actualizar. 
-        /// Retorno: Variable "sb" de tipo "string"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+       
 
         
         public string GuardarPais()

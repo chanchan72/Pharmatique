@@ -12,21 +12,10 @@ using System.Web.Http;
 
 namespace Desarrollo_GDG_Migracion.Controllers
 {
-    /// <summary>
-    /// Autor: Sebastian Mateus Villegas
-    /// Nombre de la clase: CiudadController 
-    /// Función: Establece comunicacion con el javascript "jsCiudad.js" para el paso de datos a la vista 
-    /// Fecha Documentación: 8 de abril de 2019
-    /// </summary>
+    
     public class CiudadController : ApiController
     {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarCiudad
-        /// Función: Enviar a la vista los datos serializados de la información de las ciudades 
-        /// Retorno: Variable "sb" de tipo "string"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+       
         public string ListarCiudad()
         {
             string sb = "";
@@ -51,14 +40,7 @@ namespace Desarrollo_GDG_Migracion.Controllers
             return sb;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: GuardarCiudad
-        /// Función: Recibe los datos de la vista, los guarda en un objeto de tipo "beCiudad" y si el id del Departamento viene 
-        ///          vacio envia a insertar el dato, sino lo envia a actualizar. 
-        /// Retorno: Variable "sb" de tipo "string"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+       
 
        
         public string GuardarCiudad()

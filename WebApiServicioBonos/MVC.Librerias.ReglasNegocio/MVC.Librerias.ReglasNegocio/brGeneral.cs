@@ -24,7 +24,7 @@ namespace MVC.Librerias.ReglasNegocio
         {
             beLog obeLog = new beLog();
             obeLog.FechaHora = DateTime.Now;
-            obeLog.Usuario = "harold zAmora";
+            obeLog.Usuario = "Sebastian Mateus";
             //obeLog.Usuario = HttpContext.Current.Session[""].ToString();
             obeLog.MensageError = MesanjeError;
             obeLog.DetalleError = DetalleError;

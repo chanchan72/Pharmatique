@@ -15,13 +15,7 @@ namespace MVC.Libreria.ReglasNegocio
 {
     public class brEstrategia : brGeneral
     {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarPais
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "lstObePais" de tipo "List<bePais>"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+       
         public List<beEstrategia> ListarEstrategia()
         {
             List<beEstrategia> lstObeEstrategia = new List<beEstrategia>();
@@ -41,13 +35,7 @@ namespace MVC.Libreria.ReglasNegocio
             return lstObeEstrategia;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarPais
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "idPais" de tipo "int"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public int AdicionarEstrategia(beEstrategia obeEstrategia, string usuario)
         {
             int idEstrategia = -1;
@@ -67,13 +55,7 @@ namespace MVC.Libreria.ReglasNegocio
             return idEstrategia;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ActualizarPais
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "exito" de tipo "bool"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public bool ActualizarEstrategia(beEstrategia obeEstrategia, string usuario)
         {
             bool exito = false;

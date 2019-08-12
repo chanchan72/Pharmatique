@@ -15,13 +15,7 @@ namespace MVC.Libreria.ReglasNegocio
 {
     public class brGerente : brGeneral
     {
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ListarCiudad
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "lstObeCiudad" de tipo "beDatosGraficos"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+        
         public beDatosGerente ListarGerente()
         {
             beDatosGerente obeDatosGerente = new beDatosGerente();
@@ -41,13 +35,7 @@ namespace MVC.Libreria.ReglasNegocio
             return obeDatosGerente;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: AdicionarCiudad
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "idCiudad" de tipo "int"
-        /// Fecha Documentación: 8 de abril de 2019
-        /// </summary>
+       
         public int AdicionarGeneral(beGerente obeGerente)
         {
             int idGerente = -1;
@@ -67,13 +55,7 @@ namespace MVC.Libreria.ReglasNegocio
             return idGerente;
         }
 
-        /// <summary>
-        /// Autor: Sebastian Mateus Villegas
-        /// Nombre del Metodo: ActualizarCiudad
-        /// Función: Enlace con el acceso a datos y establece la cadena de conexion con la base de datos 
-        /// Retorno: Variable "exito" de tipo "bool"
-        /// Fecha Documentación: 5 de abril de 2019
-        /// </summary>
+        
         public bool ActualizarGerente(beGerente obeGerente)
         {
             bool exito = false;
